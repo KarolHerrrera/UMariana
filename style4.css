@@ -181,6 +181,44 @@ figure .trasera p {
 }
 
 .alerts{
-    margin: 60px;
+    margin: 100px;
     border-radius: 60px;
+}
+
+
+.titulo1{
+    font-size: 20px;
+    color: blue;
+    font-weight: 600;
+}
+.wrapper{
+    margin: 150 auto;
+    width: 70%;
+}
+img{
+    max-width: 500px;
+    float: left;
+    border: 3px solid #fff;
+    border-radius:10px ;
+    margin-right: 15px;
+    margin: 30px;
+
+}
+.texto-box{
+    color: #07021b;
+}
+.texto-box h2{
+    font-size: 42px;
+    color: blue;
+    margin: 30px;
+}
+
+.texto-box p{
+    font-size: 18px;
+    margin: 30px;
+
+}
+.list-group{
+    margin-left: 500px;
+    margin-right: 500px;
 }
